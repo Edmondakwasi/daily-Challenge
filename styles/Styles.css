@@ -1,0 +1,30 @@
+body{
+    margin-top: 200px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: -125px;
+    border-radius: 250px;
+    border: 5px solid rgb(12, 17, 14);
+}
+    
+h1 {
+    font-family: 'Oswald', sans-serif; 
+    color: rgb(58, 45, 45);
+}
+
+#Todays-challenge{
+    color: rgb(90, 52, 45);
+    font-weight: bold;
+    font-size: 52px;
+}
+
+main{
+    border: 5px solid rgb(12, 17, 14);
+    background-color: rgb(197, 94, 75);
+}
+
+span{
+    color: rgb(36, 22, 22);
+}
